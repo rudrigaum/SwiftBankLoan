@@ -7,9 +7,12 @@
 
 import SwiftUI
 
-struct SwiftBankLoanView: View {
-    var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+public struct SwiftBankLoanView: View {
+    
+    public init() { }
+    
+    public var body: some View {
+        Text("Funcionalidades de emprestimo")
     }
 }
 
