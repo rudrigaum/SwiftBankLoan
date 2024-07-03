@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftBankLoan'
-  s.version          = '1.0.1'
+  s.version          = '1.1.0'
   s.summary          = 'Módulo utilizado no aplicativo SwiftBank para funcionalidade de Empréstimo'
 
   s.description      = <<-DESC
